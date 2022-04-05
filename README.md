@@ -35,7 +35,7 @@ The dataset is a subset of real data from the Million Song Dataset. Each file is
 > \event_data\2018-11-04-events.csv
 
 And below is an example of what the data in a log file, 2018-11-03-events.csv, looks like.
-![dataframe log data](https://github.com/Gutelvam/etl_with_postegres/blob/master/img/log-data.png?raw=true "Log Data")
+![dataframe sample](https://github.com/Gutelvam/etl_with_cassandra/blob/main/images/image_event_datafile_new.jpg?raw=true "Sample Data")
 
 #### Data information <a name="datainfo"></a>
 - **artist** -Artistic name or band
@@ -61,11 +61,11 @@ There are 2 files  and 2 folders, that are describe below:
 
 #### **Modeling Cassandra** <a name="model"></a>
 The tables used to test and create analytical tables, was modeling to maximize the performance of business queries that is describe below:
-![dataframe log data](https://github.com/Gutelvam/etl_with_postegres/blob/master/img/log-data.png?raw=true "Log Data")
+![table modeling](https://github.com/Gutelvam/etl_with_cassandra/blob/main/images/table_modeling.png?raw=true "table modeling")
 
 ##### **DML of Tables** <a name="dml"></a>
 The tables used to test and create analytical tables, was modeling to maximize the performance of business queries that is describe below:
-![dataframe log data](https://github.com/Gutelvam/etl_with_postegres/blob/master/img/log-data.png?raw=true "Log Data")
+![dml tables](https://github.com/Gutelvam/etl_with_cassandra/blob/main/images/dml_table.png?raw=true "dml tables")
 
 ## How to  use <a name="usage"></a>
 The DML for tables are descripted below:
