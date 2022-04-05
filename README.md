@@ -67,8 +67,11 @@ The tables used to test and create analytical tables, was modeling to maximize t
 ##### **DML of Tables** <a name="dml"></a>
 The tables used to test and create analytical tables, was modeling to maximize the performance of business queries that is describe below:
 
-
-![dml tables](https://github.com/Gutelvam/etl_with_cassandra/blob/main/images/dml_table.png?raw=true "dml tables")
+<p align="center">
+  <img 
+    src="https://github.com/Gutelvam/etl_with_cassandra/blob/main/images/dml_table.png?raw=true"
+  >
+</p>
 
 ## How to  use <a name="usage"></a>
 The DML for tables are descripted below:
