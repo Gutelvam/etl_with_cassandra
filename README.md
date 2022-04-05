@@ -61,10 +61,13 @@ There are 2 files  and 2 folders, that are describe below:
 
 #### **Modeling Cassandra** <a name="model"></a>
 The tables used to test and create analytical tables, was modeling to maximize the performance of business queries that is describe below:
+
 ![table modeling](https://github.com/Gutelvam/etl_with_cassandra/blob/main/images/table_modeling.png?raw=true "table modeling")
 
 ##### **DML of Tables** <a name="dml"></a>
 The tables used to test and create analytical tables, was modeling to maximize the performance of business queries that is describe below:
+
+
 ![dml tables](https://github.com/Gutelvam/etl_with_cassandra/blob/main/images/dml_table.png?raw=true "dml tables")
 
 ## How to  use <a name="usage"></a>
