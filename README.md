@@ -30,7 +30,7 @@ In this project, will be applied data modeling with Apache Cassandra and build a
  - *Execute queries to check data consistence*
 ## Data <a name="data"></a>
 
-The dataset is a subset of real data from the Million Song Dataset. Each file is in JSON format and contains metadata about a song and the artist of that song and user activities. The files are partitioned by in CSV by date For example, here are file paths to two files in this dataset.
+The dataset is a subset of real data from the Million Song Dataset. The files are partitioned by in CSV by date For example, here are file paths to two files in this dataset.
 > \event_data\2018-11-03-events.csv
 > \event_data\2018-11-04-events.csv
 
