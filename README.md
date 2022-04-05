@@ -79,9 +79,9 @@ The DML for tables are descripted below:
      - cassandra-driver >= 3.2
 #### Execution <a name="exec"></a>
  
-For this step first you must to clone all repository and execute in that order, start jupyter notebook in the folder and open  `cassandra_pipeline.ipynb`.
+For this step first you must to clone all repository and execute in that order and be sure to install all requirements, start jupyter notebook in the folder and open  `cassandra_pipeline.ipynb`.
 
-After that you may execute the `.ipynb` file to Check of solution.
+After that you may execute the `.ipynb` file to Check solution.
 
 ## Conclusion <a name="conclusion"></a>
-In this project we have modeled  and create a Analytical tables for query optimization in Cassandra DB, in this process we apply the most common data engineering process: Extract, transform and load by inserting transformed data into the business significant tables that can be used in the analysis process.
+In this project we have modeled  and created Analytical tables for query optimization in Cassandra DB, in this process we applied the most common data engineering process: Extract, transform and load by inserting transformed data into the business significant tables that can be used in the analysis process.
